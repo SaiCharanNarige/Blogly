@@ -1,11 +1,11 @@
-# 📰 Blogly – Full-Stack Social Media Web App
+#  Blogly – Full-Stack Social Media Web App
 
 Blogly is a **full-stack social media platform** built with React and Node.js that lets users sign up, post tweets, follow others, and manage personal profiles — similar to Twitter.  
 This project demonstrates complete frontend-backend integration, user authentication, and modern web-app architecture.
 
 ---
 
-## 🚀 Why Blogly?
+##  Why Blogly?
 
 > “A README is often the first item a visitor will see when visiting your repository. You can add a README file to tell other people why your project is useful, what they can do with your project, and how they can use it.”  
 > — *GitHub Docs*
@@ -18,14 +18,14 @@ Blogly is designed to showcase:
 
 ---
 
-## 🧩 Features
+##  Features
 
-- 🔐 **User Authentication** (Sign-up / Sign-in / Sign-out)  
-- 🗣️ **Tweet System** (Create, Edit, Delete, Like, Retweet, Reply)  
-- 👥 **Follow / Unfollow Users**  
-- 💾 **Bookmarks** for saving tweets  
-- 🧑‍💻 **Profile Editing** with avatar upload  
-- 📱 **Responsive UI** built with React and CSS  
+-  **User Authentication** (Sign-up / Sign-in / Sign-out)  
+-  **Tweet System** (Create, Edit, Delete, Like, Retweet, Reply)  
+-  **Follow / Unfollow Users**  
+-  **Bookmarks** for saving tweets  
+-  **Profile Editing** with avatar upload  
+-  **Responsive UI** built with React and CSS  
 
 ---
 
