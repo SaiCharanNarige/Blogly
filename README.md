@@ -29,7 +29,7 @@ Blogly is designed to showcase:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Layer | Technologies |
 |--------|---------------|
@@ -41,7 +41,7 @@ Blogly is designed to showcase:
 
 ---
 
-## 🛠️ Installation and Setup
+##  Installation and Setup
 
 ### Clone the repository
 ```bash
