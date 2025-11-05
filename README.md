@@ -23,9 +23,6 @@ npm run dev
 
 
 
----
-
-### 🪜 4. Initialize Git in the root folder
 From the **Blogly root** (not inside client/server):
 
 ```bash
